@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthLibrary", "EarthLibrary\EarthLibrary.csproj", "{AA36D46A-3230-447F-84BA-126ED2BBF8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarthConsole", "EarthConsole\EarthConsole.csproj", "{699CED6E-7096-4771-9F67-28A3EA89BD67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA36D46A-3230-447F-84BA-126ED2BBF8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA36D46A-3230-447F-84BA-126ED2BBF8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA36D46A-3230-447F-84BA-126ED2BBF8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA36D46A-3230-447F-84BA-126ED2BBF8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699CED6E-7096-4771-9F67-28A3EA89BD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699CED6E-7096-4771-9F67-28A3EA89BD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699CED6E-7096-4771-9F67-28A3EA89BD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699CED6E-7096-4771-9F67-28A3EA89BD67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D28056-CF35-4491-898F-27DB16F84385}
+	EndGlobalSection
+EndGlobal
